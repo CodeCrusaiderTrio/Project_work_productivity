@@ -11,6 +11,7 @@
 - [ ] Lastenheft erstellen
 - [ ] Pflichtenheft erstellen
 - [ ] Zeitplan erstellen
+- [ ] Arbeitspakete Tool festlegen
 
 ## Recap / Bilanz
 
