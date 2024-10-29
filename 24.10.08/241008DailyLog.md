@@ -1,4 +1,4 @@
-# Daily Log 1
+# Daily Log 08.10.24
 
 ## Zuletzt
 - Start des Projekts
