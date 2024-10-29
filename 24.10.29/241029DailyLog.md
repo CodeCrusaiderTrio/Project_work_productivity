@@ -8,12 +8,24 @@
 
 - [ ] Erstellen eines Konzepts
 - [ ] Konzeptionieren von Inhalten und möglichen Aufgaben
-- [ ] Erstellen des Pflichtenheftes
+- [ ] Lastenheft erstellen
+- [ ] Pflichtenheft erstellen
+- [ ] Zeitplan erstellen
 
 ## Recap / Bilanz
 
+- Vor Pflichtenheft -> Lastenheft anlegen
+- mit Lastenheft begonnen
+  -> am besten zunächst Konzept ausarbeiten
 
 ## Notes
+
+[Pflichtenheft](../24.10.29/Pflichtenheft_Questify.md)
+
+[Pflichtenheft Gliederung](../24.10.29/Gliederung_Pflichtenheft.pdf)
+
+[Lastenheft](../24.10.29/Lastenheft_Questify.md)
+-> https://chatgpt.com/share/6720dfe6-d86c-800a-bf53-1f82d712e43f
 
 - Grundideen
   - Anwendung die Mitarbeiter in einem Unternehmen durch 'Attention Loop'-Techniken zu sonst eher stupiden Arbeiten motiviert.
@@ -24,4 +36,3 @@
 
 - Nutzwertanalyse/Rechtfertigung
   - Steigerung der Produktivität durch Motivation zu sonst unbeliebten Aufgaben
-  - 
