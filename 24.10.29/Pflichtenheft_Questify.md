@@ -5,13 +5,15 @@
 ### 1.1 Zielsetzung
 > Zielbeschreibung des Projekts
 
-Ziel des Projekts ist eine web-based Applikation, mit deren Hilfe Mitarbeiter zu ansonsten eher stupiden Aufgaben motiviert werden sollen.
+Ziel des Projekts ist eine web-based Applikation, mit deren Hilfe Mitarbeiter zu  regelmäßigen und teilweise monotonen Aufgaben motiviert werden sollen.
 Hierzu wird das erfüllen von bestimmten Aufgaben (Quests) mit Achievements und Meilensteinen belohnt.
 
 ### 1.2 Projekt-Eckdaten
 > Projektleiter, Auftraggeber, Mitarbeiter, Arbeitsverteilung, Terminübersicht
 
-Projektleiter: 
+Projektleiter:
+- Philipp Leyser
+- Jean-Michel Reupsch
 
 Auftraggeber: 
 
@@ -23,12 +25,21 @@ Terminübersicht:
 
 
 ### 1.3 Ist-Analyse
-> Skizze des aktuellen Zustands, Datenhaltung, Systemarchitektur & Workflow
 
-Zur Zeit werden viele Aufgaben im Büro nur notdürftig erledigt
+Zur Zeit werden viele Aufgaben im Büro nur notdürftig erledigt.
+Derzeit wird kein spezifisches Gamification-Tool zur Mitarbeitermotivation verwendet. Die Aufgabenverwaltung erfolgt über herkömmliche Methoden (E-Mail, Kalender, einfache Task-Management-Tools), die keine motivierenden Elemente wie Abzeichen oder Statuspunkte bieten und wenig Engagement auslösen.
+
 
 ### 1.4 Soll-Analyse
-> Zusammenstellung der im Lastenheft beschriebenen Anforderungen
+
+Führungskräften können Aufgaben in Form von 'Quests' zu erstellen und auf Bereiche oder Teams zu verteilen.
+Regelmäßiges erfüllen der Quests wird mit rein digitalen Abzeichen belohnt.
+Quest Fortschritt, offene Quests und Abzeichen lassen sich von jedem Gerät mit einem Browser und einer Internetverbindung aus, über eine Web-Oberfläche, einsehen.
+Diese ist von jedem Gerät aus intuitive und einfach zu Nutzen.
+Die verwendete Datenbanktechnologie ermöglicht eine stabile Performance und Ausfallsicherheit bei parallelem Zugriff von bis zu 500 Nutzern. 
+
+Die Softwarearchitektur und Bedienung des Produktes wird nachvollziehbar dokumentiert und für den Kunden zugänglich hinterlegt.
+
 
 ## 2. Machbarkeits-Analyse
 > Zeit- / Kostenanalyse: Sind Ziele erreichbar? Mit welchem Aufwand?
