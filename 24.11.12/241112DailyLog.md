@@ -1,20 +1,20 @@
 # Daily Log 12.11.24
 
-## Zuletzt
-- Weiteres Vorgehen geplant
-- Mit Lastenheft begonnen
-
 ## Heute
 
 - [X] ~~*Pflichtenheft erstellen*~~ [12.11.2024-11:59:47]
 - [X] ~~*Zeitplan erstellen*~~ [12.11.2024-11:59:59]
 - [X] ~~*Arbeitspakete Tool festlegen*~~ [12.11.2024-12:05:35]
 - [X] ~~*KanBan Bord einrichten*~~ [12.11.2024-12:07:29]
-- [ ] Konzeptionieren von Inhalten und möglichen Aufgaben
-- [ ] Aufbau DB
+- [X] ~~*Konzeptionieren von Inhalten und möglichen Aufgaben*~~ [12.11.2024-13:30:26]
+- [X] ~~*Aufbau DB*~~ [12.11.2024-13:30:27]
 
 ## Recap / Bilanz
 
+- Pflichtenheft fertiggestellt und abgegeben
+- Zeitplanung erstellt
+- Arbeitspakete Tool festgelegt und eingerichtet
+- Datenbank geplant &rarr; mit Implementierung begonnen
 
 ## Notes
 
