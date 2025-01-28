@@ -62,22 +62,22 @@ Die Softwarearchitektur und Bedienung des Produktes wird nachvollziehbar dokumen
 ## 2. Machbarkeits-Analyse
 
 
-| **Kostenkategorie**                       | **Beschreibung**                                                                  | **Stunden**    | **Kosten pro Stunde** | **Gesamtkosten** |
-| ------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------- | ----------------------- | ------------------ |
-| **1. Anforderungsanalyse und Konzeption** | - Anforderungsdefinition und Zielsetzung<br>- Prototypen und Skizzen erstellen    | 8 Stunden      | 50 €                 | 400 €           |
-| **2. Entwicklung der Kernfunktionen**     |                                                                                   |                |                       |                  |
-| 2.1 Backend-Entwicklung                   | - Implementierung der Geschäftslogik und Datenbankanbindung                      | 12 Stunden     | 50 €                 | 600 €           |
-| 2.2 Frontend-Entwicklung                  | - Entwicklung der Benutzeroberfläche und Integration der Gamification-Elemente   | 12 Stunden     | 50 €                 | 600 €           |
-| 2.3 Funktionale Features                  | - Implementierung des Punktesystems, Aufgabenmanagement und Belohnungen           | 8 Stunden      | 50 €                 | 400 €           |
-| **3. Testing und Qualitätssicherung**    |                                                                                   |                |                       |                  |
-| 3.1 Usability-Testing                     | - Testen der Benutzerfreundlichkeit und Anpassung der Oberfläche                 | 8 Stunden      | 50 €                 | 400 €           |
-| 3.2 Funktionalitäts-Testing              | - Überprüfung der Kernfunktionen (Punkte, Belohnungen, Aufgabenmanagement)      | 4 Stunden      | 50 €                 | 200 €           |
-| 3.3 Geräte- und Browser-Kompatibilität  | - Tests auf verschiedenen Endgeräten und Browsern                                | 4 Stunden      | 50 €                 | 200 €           |
-| **4. Abschlussphase und Dokumentation**   |                                                                                   |                |                       |                  |
-| 4.1 Nutzerdokumentation                   | - Erstellung einer Anleitung für Benutzer und Übergabe an die Personalabteilung | 4 Stunden      | 50 €                 | 200 €           |
-| 4.2 Feedbackrunde und Anpassungen         | - Feedback sammeln und eventuelle Nachjustierungen vornehmen                      | 4 Stunden      | 50 €                 | 200 €           |
-| **5. Puffer (5%)**                        | - Reserve für unerwartete Herausforderungen                                      | 4 Stunden      | 50 €                 | 200 €           |
-| **Gesamtkosten**                          |                                                                                   | **80 Stunden** |                       | **4.000 €**     |
+| **Kostenkategorie**                       | **Beschreibung**                                                                | **Stunden**    | **Kosten pro Stunde** | **Gesamtkosten** |
+| ----------------------------------------- | ------------------------------------------------------------------------------- | -------------- | --------------------- | ---------------- |
+| **1. Anforderungsanalyse und Konzeption** | - Anforderungsdefinition und Zielsetzung<br>- Prototypen und Skizzen erstellen  | 8 Stunden      | 50 €                  | 400 €            |
+| **2. Entwicklung der Kernfunktionen**     |                                                                                 |                |                       |                  |
+| 2.1 Backend-Entwicklung                   | - Implementierung der Geschäftslogik und Datenbankanbindung                     | 12 Stunden     | 50 €                  | 600 €            |
+| 2.2 Frontend-Entwicklung                  | - Entwicklung der Benutzeroberfläche und Integration der Gamification-Elemente  | 12 Stunden     | 50 €                  | 600 €            |
+| 2.3 Funktionale Features                  | - Implementierung des Punktesystems, Aufgabenmanagement und Belohnungen         | 8 Stunden      | 50 €                  | 400 €            |
+| **3. Testing und Qualitätssicherung**     |                                                                                 |                |                       |                  |
+| 3.1 Usability-Testing                     | - Testen der Benutzerfreundlichkeit und Anpassung der Oberfläche                | 8 Stunden      | 50 €                  | 400 €            |
+| 3.2 Funktionalitäts-Testing               | - Überprüfung der Kernfunktionen (Punkte, Belohnungen, Aufgabenmanagement)      | 4 Stunden      | 50 €                  | 200 €            |
+| 3.3 Geräte- und Browser-Kompatibilität    | - Tests auf verschiedenen Endgeräten und Browsern                               | 4 Stunden      | 50 €                  | 200 €            |
+| **4. Abschlussphase und Dokumentation**   |                                                                                 |                |                       |                  |
+| 4.1 Nutzerdokumentation                   | - Erstellung einer Anleitung für Benutzer und Übergabe an die Personalabteilung | 4 Stunden      | 50 €                  | 200 €            |
+| 4.2 Feedbackrunde und Anpassungen         | - Feedback sammeln und eventuelle Nachjustierungen vornehmen                    | 4 Stunden      | 50 €                  | 200 €            |
+| **5. Puffer (5%)**                        | - Reserve für unerwartete Herausforderungen                                     | 4 Stunden      | 50 €                  | 200 €            |
+| **Gesamtkosten**                          |                                                                                 | **80 Stunden** |                       | **4.000 €**      |
 
 ## 3. Spezifizierung
 
@@ -241,11 +241,11 @@ Die Softwarearchitektur und Bedienung des Produktes wird nachvollziehbar dokumen
 ### 7.1 Kosten
 
 
-| Kostenart          | Beschreibung                                                                                           | Stunden    | Kosten pro Stunde | Gesamtkosten |
-| -------------------- | -------------------------------------------------------------------------------------------------------- | ------------ | ------------------- | -------------- |
-| Entwicklungskosten | Anforderungsanalyse, Konzeption, Entwicklung der Kernfunktionen, Testing, Dokumentation und Übergabe. | 80 Stunden | 50 €             | 4.000 €     |
-| Puffer (10%)       | Reserve für unerwartete technische Schwierigkeiten oder Verzögerungen.                               | 8 Stunden  | 50 €             | 400 €       |
-| Gesamtkosten       |                                                                                                        |            |                   | 4.400 €     |
+| Kostenart          | Beschreibung                                                                                          | Stunden    | Kosten pro Stunde | Gesamtkosten |
+| ------------------ | ----------------------------------------------------------------------------------------------------- | ---------- | ----------------- | ------------ |
+| Entwicklungskosten | Anforderungsanalyse, Konzeption, Entwicklung der Kernfunktionen, Testing, Dokumentation und Übergabe. | 80 Stunden | 50 €              | 4.000 €      |
+| Puffer (10%)       | Reserve für unerwartete technische Schwierigkeiten oder Verzögerungen.                                | 8 Stunden  | 50 €              | 400 €        |
+| Gesamtkosten       |                                                                                                       |            |                   | 4.400 €      |
 
 ### 7.2 Investitionen
 
@@ -254,17 +254,17 @@ Die Softwarearchitektur und Bedienung des Produktes wird nachvollziehbar dokumen
 ## 8. Zeitplanung / Meilensteine
 
 
-| Projektphase                                               | Aufgaben                                                                              | Dauer               | Verantwortlich |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------- | ---------------- |
-| Anforderungsanalyse und Konzeption                         | - Anforderungen definieren                                                            |                     |                |
-| - Prototypen und Skizzen erstellen                         | 10 Stunden                                                                            | Programmierer 1 & 2 |                |
-| Entwicklung der Kernfunktionen                             | - Implementierung der Hauptfunktionen (Punktesystem, Belohnungen, Aufgabenmanagement) |                     |                |
+| Projektphase                                              | Aufgaben                                                                              | Dauer               | Verantwortlich |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------- | -------------- |
+| Anforderungsanalyse und Konzeption                        | - Anforderungen definieren                                                            |                     |                |
+| - Prototypen und Skizzen erstellen                        | 10 Stunden                                                                            | Programmierer 1 & 2 |                |
+| Entwicklung der Kernfunktionen                            | - Implementierung der Hauptfunktionen (Punktesystem, Belohnungen, Aufgabenmanagement) |                     |                |
 | - Benutzeroberfläche und Gamification-Elemente entwickeln | 40 Stunden                                                                            | Programmierer 1 & 2 |                |
-| Testing und Qualitätssicherung                            | - Testen auf verschiedenen Geräten und Browsern                                      |                     |                |
+| Testing und Qualitätssicherung                            | - Testen auf verschiedenen Geräten und Browsern                                       |                     |                |
 | - Optimierung der Benutzerfreundlichkeit und Stabilität   | 20 Stunden                                                                            | Programmierer 1 & 2 |                |
-| Abschlussphase und Dokumentation                           | - Nutzerdokumentation erstellen                                                       |                     |                |
+| Abschlussphase und Dokumentation                          | - Nutzerdokumentation erstellen                                                       |                     |                |
 | - Übergabe an die Personalabteilung und Feedbackrunde     | 10 Stunden                                                                            | Programmierer 1 & 2 |                |
-| Gesamtstunden                                              |                                                                                       | 80 Stunden          |                |
+| Gesamtstunden                                             |                                                                                       | 80 Stunden          |                |
 
 ## 9. Personalplanung
 
