@@ -4,11 +4,12 @@
 ## Heute
 
 - [ ] Letzte Ergänzungen an den Projektdateien
-- [ ] Abgabe der Projektdateien
+- [X] ~~*Abgabe der Projektdateien*~~ [28.01.2025-14:28:40]
 - [ ] Anlegen der Projektdokumentation
 
 ## Recap / Bilanz
 
+ToDo: Recap ergänzen
 
 ## Notes
 
